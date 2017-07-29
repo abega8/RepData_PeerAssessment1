@@ -2,11 +2,11 @@ title: "Activity Monitoring"
 author: "Bernard Akyena"
 date: "July 29, 2017"
 ---
-output:
+  output:
   word_document: default
-  html_document: default
+html_document: default
 ---
-
+  
 1. Code for reading in the dataset and/or processing the data
 
 ```{r echo = TRUE}
